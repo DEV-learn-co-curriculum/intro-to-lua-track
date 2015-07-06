@@ -3,9 +3,9 @@ track:
     title: Intro to Lua
     uuid: 431938bf-d9fc-4a0a-ba22-710b4161f534
     topics:
-    -   title: Variables and Stuff and Things
-        uuid: 9f209d7f-1285-4304-beeb-4b21b3a4e432
-        units: []
     -   title: Arithmetic
         uuid: 6a991c78-dc50-4ad4-8a1a-3d6bb1677709
+        units: []
+    -   title: Variables and Stuff and Things
+        uuid: 9f209d7f-1285-4304-beeb-4b21b3a4e432
         units: []
