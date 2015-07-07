@@ -1,21 +1,21 @@
 ---
 track:
-    title: '"Intro to Lua":'
+    title: Intro to Lua
     uuid: 431938bf-d9fc-4a0a-ba22-710b4161f534
     topics:
-    -   title: '"Arithmetic":'
+    -   title: Arithmetic
         uuid: 6a991c78-dc50-4ad4-8a1a-3d6bb1677709
         units: []
-    -   title: '"Variables and Stuff and Things":'
+    -   title: Variables
         uuid: 9f209d7f-1285-4304-beeb-4b21b3a4e432
         units: []
     -   title: '"Functions":'
         uuid: 8df509de-b3fd-499c-a1f8-476a8adc0582
         units: []
-    -   title: '"Methods and stuff":'
+    -   title: Methods
         uuid: 55854c0f-db72-4dcf-a4f6-89bb20330fb0
         units: []
-    -   title: '"Other things":'
+    -   title: Stuff
         uuid: 94897db9-b53b-4697-86f5-ee59311469ee
         units: []
     -   title: 'hi:'
